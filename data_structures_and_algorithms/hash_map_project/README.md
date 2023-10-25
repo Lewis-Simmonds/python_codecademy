@@ -1,0 +1,1 @@
+Practice task to create a functional hash map
